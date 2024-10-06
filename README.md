@@ -73,3 +73,32 @@ This schematic shows the connections for the continuous 360-degree servo motor, 
 - [Raspberry Pi Pico Documentation](https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf)
 - [RFID-RC522 Module Documentation](https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf)
 - [4x4 Matrix Keypad Datasheet](https://www.sparkfun.com/datasheets/Components/General/COM-14662_4x4_Matrix_Keypad.pdf)
+
+## Amazon Links
+
+Below are the Amazon links to purchase the components used in this project:
+
+- [360 Degree Continuous Servo Motor](https://www.amazon.com/dp/B08JCT4P3B?ref=ppx_yo2ov_dt_b_fed_asin_title)  
+  This servo motor allows continuous rotation and is suitable for applications requiring full 360-degree movement.
+
+- [270 Degree Servo Motor](https://www.amazon.com/dp/B08JCT4P3B?ref=ppx_yo2ov_dt_b_fed_asin_title)  
+  This servo motor provides 270 degrees of rotation, suitable for precise angular movements.
+
+- [RFID Reader (MFRC522)](https://www.amazon.com/dp/B07VLDSYRW?ref=ppx_yo2ov_dt_b_fed_asin_title)  
+  The RFID reader module used for user authentication and identification.
+
+- [Regulated Power Supply for Servo Motor](https://www.amazon.com/dp/B0CW2HDGCG?ref=ppx_yo2ov_dt_b_fed_asin_title)  
+  A regulated power supply to provide stable power for the servo motors.
+
+- [LCD 16x2 Display](https://www.amazon.com/dp/B07S7PJYM6?ref=ppx_yo2ov_dt_b_fed_asin_title)  
+  A 16x2 LCD display used to display information like user input or system status.
+
+- [Multicolored Jumper Wires](https://www.amazon.com/dp/B01EV70C78?ref=ppx_yo2ov_dt_b_fed_asin_title)  
+  A set of multicolored jumper wires for making quick and reliable connections between components.
+
+- [4x4 Matrix Keyboard](https://www.amazon.com/dp/B08JYNM8D9?ref=ppx_yo2ov_dt_b_fed_asin_title)  
+  A 4x4 matrix keyboard used to input product selection numbers or other user commands.
+
+- [Raspberry Pi Pico W](https://www.amazon.com/dp/B0BK9W4H2Q?ref=ppx_yo2ov_dt_b_fed_asin_title)  
+  The microcontroller used in this project, capable of running MicroPython and controlling the peripherals.
+
