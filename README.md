@@ -31,6 +31,31 @@ This README describes the pin configuration of the Raspberry Pi Pico W and its c
 |                    | External Power Supply      | N/A               | Red wire                         | Power (VCC) connection for the servo           |
 |                    | Ground (GND)              | N/A               | Brown wire                       | Ground connection for the servo                |
 
+## Schematics
+
+Below are the schematics for the various peripherals connected to the Raspberry Pi Pico W. These diagrams show the pin connections for each component and their corresponding wiring.
+
+### 1. 16x2 LCD Display Schematic
+![16x2 LCD Display Schematic](schematics/LCD16x2.jpg)
+
+This schematic illustrates the pin connections between the Raspberry Pi Pico W and the 16x2 LCD display, showing how to connect the power, GND, SDA, and SCL pins for proper communication.
+
+### 2. RFID-RC522 Schematic
+![RFID-RC522 Schematic](schematics/RFID-MFRC522.jpg)
+
+The RFID-RC522 module uses SPI communication, and this schematic shows the specific GPIO pin assignments for connecting the Raspberry Pi Pico W to the RFID module, including the SDA, SCK, MOSI, and MISO pins.
+
+### 3. 4x4 Matrix Keyboard Schematic
+![4x4 Matrix Keyboard Schematic](schematics/Keyboard4x4.jpg)
+
+This schematic details how the 4x4 matrix keyboard is wired to the GPIO pins of the Raspberry Pi Pico W. The rows and columns are connected to specific GPIO pins, enabling key presses to be detected.
+
+### 4. Continuous 360° Servo Motor Schematic
+![Continuous 360° Servo Motor Schematic](schematics/ServoMotor360.jpg)
+
+This schematic shows the connections for the continuous 360-degree servo motor, including the PWM signal pin (GPIO) on the Raspberry Pi Pico W and the external power supply for the servo.
+
+
 ## Power Supply Notes
 
 - The RFID-RC522 is powered by the 3.3V pin of the Raspberry Pi Pico W.
