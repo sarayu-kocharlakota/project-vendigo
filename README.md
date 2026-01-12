@@ -33,7 +33,7 @@ Pictures             | Pictures
 |                    | Pin 17                    | GP13              | Col 2                            | Connection to Column 2 of Keypad               |
 |                    | Pin 19                    | GP14              | Col 3                            | Connection to Column 3 of Keypad               |
 |                    | Pin 20                    | GP15              | Col 4                            | Connection to Column 4 of Keypad               |
-| **Continuous Servo**| Pin 28                    | GP28              | Orange wire                      | PWM signal for controlling servo rotation      |
+| **Continuous Servo**| Pin 34                    | GP28              | Orange wire                      | PWM signal for controlling servo rotation      |
 |                    | External Power Supply      | N/A               | Red wire                         | Power (VCC) connection for the servo           |
 |                    | Ground (GND)              | N/A               | Brown wire                       | Ground connection for the servo                |
 
