@@ -4,6 +4,9 @@
 
 This README describes the pin configuration of the Raspberry Pi Pico W and its connections to various peripherals like a 16x2 LCD display, RFID-RC522 module, 4x4 Matrix Keypad, and continuous rotation servo motors.
 
+## Working model (Version1, Video)
+[Watch demo video](https://github.com/user-attachments/assets/dbadf106-0529-4700-9a5a-708e3cee60a5)
+
 ## Working model (Rudimentary)
 Pictures             | Pictures
 :-------------------------:|:-------------------------:
